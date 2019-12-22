@@ -1,0 +1,4 @@
+#Sun Dec 22 14:30:03 WAT 2019
+base.0=/home/ricken/Documents/sample/flutter/flutte_chat_ui/build/app/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
